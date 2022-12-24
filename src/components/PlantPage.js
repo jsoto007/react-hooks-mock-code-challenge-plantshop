@@ -14,9 +14,13 @@ useEffect(() => {
     .then((item) => setData(item))
 }, [])
 
+function handleAddItem(newItem) {
+  setData([newItem, ...data])
+}
+
   return (
     <main>
-      <NewPlantForm />
+      <NewPlantForm onAddItem={handleAddItem}/>
       <Search 
         searchInput={searchInput} 
         setSearchInput={setSearchInput} 

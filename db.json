@@ -41,6 +41,24 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Mango",
+      "image": "https://balconygardenweb-lhnfx0beomqvnhspx.netdna-ssl.com/wp-content/uploads/2015/06/mango-tree-1.jpg",
+      "price": "22",
+      "id": 8
+    },
+    {
+      "name": "Mango",
+      "image": "https://balconygardenweb-lhnfx0beomqvnhspx.netdna-ssl.com/wp-content/uploads/2015/06/mango-tree-1.jpg",
+      "price": "22",
+      "id": 9
+    },
+    {
+      "name": "Mango",
+      "image": "https://balconygardenweb-lhnfx0beomqvnhspx.netdna-ssl.com/wp-content/uploads/2015/06/mango-tree-1.jpg",
+      "price": "55",
+      "id": 10
     }
   ]
 }
